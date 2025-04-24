@@ -1,0 +1,9 @@
+2025-04-24 13:30:51 App launched 
+2025-04-24 13:30:51 search : How tall is Batman?
+2025-04-24 13:30:51 search : How old is superman?
+2025-04-24 13:30:51 Exited app 
+2025-04-24 13:41:00 App launched 
+2025-04-24 13:41:00 search : Is Eric secretly a reptile?
+2025-04-24 13:41:00 search : Could Luffy beat Naruto?
+2025-04-24 13:41:00 search : Is the Hellcat the greatest car in the world?
+2025-04-24 13:41:00 Exited app 
